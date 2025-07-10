@@ -1,8 +1,8 @@
 # README.md
-<!-- Hola, I'm Aman Singh!! -->
+<!-- Hola, I'm Harsh sharma!! -->
 I am a tech enthusiast 💻 who loves programming & exploring more about Reactjs Developer, Frontend WordPress Developer, SEO, and Cyber Security.
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aman9113" /> 
+  <img src="https://komarev.com/ghpvc/?username=Harshsharmabhardwaj" /> 
 </p>
 </p>
 </a><img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="400" />
